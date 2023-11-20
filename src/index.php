@@ -11,6 +11,7 @@
         <li><a href="mod3/BrysonTable3.php">mod2/BrysonTable3.php</a></li>
         <li><a href="mod4/BrysonPalindrome.php">mod4/BrysonPalindrome.php</a></li>
         <li><a href="mod5/BrysonCustomers.php">mod4/BrysonCustomers.php</a></li>
+        <li><a href="mod6/BrysonMyInteger.php">mod6/BrysonMyInteger.php</a></li>
     </ul>
 </body>
 </html>
