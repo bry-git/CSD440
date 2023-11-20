@@ -12,6 +12,7 @@
         <li><a href="mod4/BrysonPalindrome.php">mod4/BrysonPalindrome.php</a></li>
         <li><a href="mod5/BrysonCustomers.php">mod4/BrysonCustomers.php</a></li>
         <li><a href="mod6/BrysonMyInteger.php">mod6/BrysonMyInteger.php</a></li>
+        <li><a href="mod7/BrysonValidationForm.php">mod7/BrysonValidationForm.php</a></li>
     </ul>
 </body>
 </html>
