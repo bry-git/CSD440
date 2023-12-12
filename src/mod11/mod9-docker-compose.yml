@@ -1,0 +1,20 @@
+version: '3.7'
+
+services:
+  mod9-database:
+    container_name: mod9-database
+    hostname: mod9-database
+    build:
+      context: database
+      dockerfile: database.Dockerfile
+    ports:
+      - 33306:3306
+
+  mod9-xamp:
+    container_name: mod9-xamp
+    hostname: mod9-xamp
+    build:
+      context: xamp
+      dockerfile: xamp.Dockerfile
+    ports:
+      - 8080:80
