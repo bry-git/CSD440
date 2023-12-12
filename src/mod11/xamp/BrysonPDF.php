@@ -49,7 +49,7 @@ if (isset($_POST['generatePdf'])) {
     <title>Create Baseball Teams PDF</title>
 </head>
 <body>
-<h2>Create Baseball Team</h2>
+<h2>Create Baseball Teams PDF</h2>
 <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
     <input type="submit" name="generatePdf" value="Generate PDF">
 </form>
